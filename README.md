@@ -6,7 +6,7 @@ I hope my road to becoming a Front-End Developer will be successful. For now, I 
 
 - 👨‍💻 My portfolio is will be available soon! 
 
-- 📫 How to reach me? Contact me via LinkedIn **[https://www.linkedin.com/in/joanna-sibrecht/](Contact with me- Linderinn)**
+- 📫 How to reach me? Contact me via LinkedIn **[https://www.linkedin.com/in/joanna-sibrecht/] (Contact with me- Linderinn)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
