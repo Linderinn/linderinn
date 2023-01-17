@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Linderinn </h1>
 <h3 align="center">I am an architect from Poland who decided to change the industry to IT.
-I hope my road to becoming a Front-End Developer will be successful. For now, I put all projects in the repository. I am looking for a job as an intern or junior developer.</h3>
+I hope my road to becoming a Front-End Developer will be successful. For now, I put all projects in the repository. 
+I am looking for a job as an intern or junior developer.</h3>
 
 - 📢 I’m currently working on my Portfolio [Frontend Mentor Projects](https://www.frontendmentor.io/profile/linderinn)
 
 - 👨‍💻 My portfolio is will be available soon! 
 
-- 📫 How to reach me? Contact me via LinkedIn **[https://www.linkedin.com/in/joanna-sibrecht/] (Contact with me- Linderinn)**
+- 📫 How to reach me? Contact me via LinkedIn [https://www.linkedin.com/in/joanna-sibrecht/](Contact with me- Linderinn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
