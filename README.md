@@ -7,7 +7,7 @@ I am looking for a job as an intern or junior developer.</h3>
 
 - 👨‍💻 My portfolio is will be available soon! 
 
-- 📫 How to reach me? Contact me via LinkedIn [https://www.linkedin.com/in/joanna-sibrecht/](Contact with me- Linderinn)
+- 📫 How to reach me? Contact me via LinkedIn [Contact with me- Linderinn](https://www.linkedin.com/in/joanna-sibrecht/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
