@@ -3,9 +3,9 @@
 I hope my road to becoming a Front-End Developer will be successful. For now, I put all projects in the repository. 
 I am looking for a job as an intern or junior developer. I am considering other development paths in the field of programming - I would gladly consider an AI internship as an AI Engineer.</h3>
 
-- 📢 I’m currently working on my Portfolio [Frontend Mentor Projects](https://www.frontendmentor.io/profile/linderinn)
+- 📢 I’m currently working on my Portfolio
 
-- 👨‍💻 My portfolio is will be available soon! 
+- 👨‍💻 Codewars: [Profile](https://www.codewars.com/users/Linderinn/completed_solutions)
 
 - 📫 How to reach me? Contact me via LinkedIn [Contact with me- Linderinn](https://www.linkedin.com/in/joanna-sibrecht/)
 
