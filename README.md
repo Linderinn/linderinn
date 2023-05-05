@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linderinn </h1>
 <h3 align="center">I am an architect from Poland who decided to change the industry to IT. <br>
 I hope my road to becoming a Front-End or Full-Stack Developer will be successful. For now, I put all projects in the repository. 
-I am looking for a job as an intern or junior developer. I am considering other development paths in the field of programming - I would gladly consider an AI internship as an AI Engineer.</h3>
+I am looking for a job as an intern or junior developer.</h3>
 
 - 📢 I’m currently working on my Portfolio
 
