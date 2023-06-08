@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linderinn </h1>
 <h3 align="center">I am an architect from Poland who decided to change the industry to IT. <br>
-I hope my road to becoming a Front-End or Full-Stack Developer will be successful. For now, I put all projects in the repository. 
+I hope my road to becoming a Python Developer or Front-End/ Full-Stack Developer will be successful. For now, I put all projects in the repository. 
 I am looking for a job as an intern or junior developer.</h3>
 
 - 📢 I’m currently working on my Portfolio
